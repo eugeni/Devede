@@ -3,10 +3,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DeVeDe\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2010-07-03 00:22+0200\n"
+"POT-Creation-Date: 2011-05-12 13:59-0300\n"
 "PO-Revision-Date: 2009-01-15 10:01+0200\n"
 "Last-Translator: Aleksey Kirpichnikov <alexcoder@gmail.com>\n"
 "Language-Team: Russian <alexcoder@gmail.com>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -143,7 +144,7 @@ msgstr "Нет имени файла"
 msgid "Can't save the file."
 msgstr "Невозможно сохранить файл."
 
-#: ../devede_main.py:400
+#: ../devede_main.py:402
 msgid ""
 "Too many videos for this disc size.\n"
 "Please, select a bigger disc type or remove some videos."
@@ -151,7 +152,7 @@ msgstr ""
 "Слишком много видео файлов для этого размера диска.\n"
 "Пожалуйста, выберите больший размер диска или удалите некоторые файлы."
 
-#: ../devede_main.py:460
+#: ../devede_main.py:462
 msgid ""
 "Some files weren't video files.\n"
 "None added."
@@ -159,7 +160,7 @@ msgstr ""
 "Некоторые файлы не являются видео файлами.\n"
 "Ничего не добавлено."
 
-#: ../devede_main.py:506
+#: ../devede_main.py:510
 #, python-format
 msgid ""
 "Your project contains %(X)d movie files, but the maximum is %(MAX)d. Please, "
@@ -168,15 +169,15 @@ msgstr ""
 "В вашем проекте %(X)d видео файлов, но максимальное количество %(MAX)d. "
 "Пожалуйста, удалите некоторые файлы и попробуйте еще раз."
 
-#: ../devede_main.py:946
+#: ../devede_main.py:952
 msgid "no chapters"
 msgstr "нет глав"
 
-#: ../devede_main.py:1006
+#: ../devede_main.py:1012
 msgid "Unsaved disc structure"
 msgstr "Не сохранённая структура диска"
 
-#: ../devede_main.py:1074
+#: ../devede_main.py:1080
 #, python-format
 msgid "Title %(X)d"
 msgstr "Раздел %(X)d"
@@ -436,6 +437,10 @@ msgstr ""
 "Всё равно продолжить?"
 
 #: ../interface/wend_dialog.ui.h:1
+msgid "Burn"
+msgstr ""
+
+#: ../interface/wend_dialog.ui.h:2
 msgid "Job done!"
 msgstr "Выполнено!"
 
@@ -1444,8 +1449,8 @@ msgstr "Предупреждение"
 #~ msgstr ""
 #~ "п©б╡п©Б∙ёп©Б∙║п©Б∙╛п©Б∙╔п©Б∙╙п©Б∙╛п©Б∙╓п©Б∙╚п©Б∙╛ "
 #~ "я▐Б■░п©Б∙╙п©Б∙ёп©Б∙╚я▐Б√└я▐Б■╛п©Б∙╕я▐Б■▄я▐Б√└ "
-#~ "п©Б∙╗п©Б∙╛п©Б∙╘п©Б∙╕я▐Б■╓п©Б∙ёя▐Б■┌я▐Б■▄п©Б∙║п©Б∙╛ я▐Б■°"
-#~ "п©Б∙║п©Б∙ёя▐Б■▄п©Б∙╛п©Б∙║ п©Б∙╙п©Б∙ёп©Б∙╚я▐Б√▄.\n"
+#~ "п©Б∙╗п©Б∙╛п©Б∙╘п©Б∙╕я▐Б■╓п©Б∙ёя▐Б■┌я▐Б■▄п©Б∙║п©Б∙╛ я▐Б■"
+#~ "°п©Б∙║п©Б∙ёя▐Б■▄п©Б∙╛п©Б∙║ п©Б∙╙п©Б∙ёп©Б∙╚я▐Б√▄.\n"
 #~ "п©ц╥я▐Б■─п©Б∙╛п©Б∙║п©Б∙ёя▐Б■─я▐Б√└я▐Б■▄п©Б∙ё "
 #~ "п©Б∙╚п©Б∙÷п©Б∙╘п©Б∙╕я▐Б■╓п©Б∙╕п©Б∙ё "
 #~ "я▐Б■░я▐Б■┌я▐Б■▄п©Б∙÷п©Б∙╚п©Б∙╛п©Б∙║п©Б∙╘п©Б∙ёп©Б∙╚п©Б∙╚п©Б∙╛п©п│п©Б∙╛ "

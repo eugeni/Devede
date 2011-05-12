@@ -10,10 +10,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: devede 3.8\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2010-07-03 00:22+0200\n"
+"POT-Creation-Date: 2011-05-12 13:59-0300\n"
 "PO-Revision-Date: 2010-01-25 20:38+0100\n"
 "Last-Translator: Jozef Říha <jose1711@gmail.com>\n"
 "Language-Team: \n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -153,7 +154,7 @@ msgstr "Žiaden názov súboru"
 msgid "Can't save the file."
 msgstr "Nemôžem uložiť súbor."
 
-#: ../devede_main.py:400
+#: ../devede_main.py:402
 msgid ""
 "Too many videos for this disc size.\n"
 "Please, select a bigger disc type or remove some videos."
@@ -161,7 +162,7 @@ msgstr ""
 "Príliš veľa videí pre túto veľkosť disku.\n"
 "Prosím, vyberte väčší typ disku alebo odstráňte nejaké videá."
 
-#: ../devede_main.py:460
+#: ../devede_main.py:462
 msgid ""
 "Some files weren't video files.\n"
 "None added."
@@ -169,7 +170,7 @@ msgstr ""
 "Niektoré zo súborov nie sú video súbory.\n"
 "Nič nebolo pridané."
 
-#: ../devede_main.py:506
+#: ../devede_main.py:510
 #, python-format
 msgid ""
 "Your project contains %(X)d movie files, but the maximum is %(MAX)d. Please, "
@@ -178,15 +179,15 @@ msgstr ""
 "Váš projekt obsahuje %(X)d video súborov, ale maximum je %(MAX)d. Prosím, "
 "odstráňte nejaké súbory a skúste to znovu."
 
-#: ../devede_main.py:946
+#: ../devede_main.py:952
 msgid "no chapters"
 msgstr "bez kapitol"
 
-#: ../devede_main.py:1006
+#: ../devede_main.py:1012
 msgid "Unsaved disc structure"
 msgstr "Neuložená štruktúra disku"
 
-#: ../devede_main.py:1074
+#: ../devede_main.py:1080
 #, python-format
 msgid "Title %(X)d"
 msgstr "Titul %(X)d"
@@ -449,6 +450,10 @@ msgstr ""
 "Pokračovať ďalej?"
 
 #: ../interface/wend_dialog.ui.h:1
+msgid "Burn"
+msgstr ""
+
+#: ../interface/wend_dialog.ui.h:2
 msgid "Job done!"
 msgstr "Hotovo!"
 

@@ -2,10 +2,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DeVeDe 3.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2010-07-03 00:22+0200\n"
+"POT-Creation-Date: 2011-05-12 13:59-0300\n"
 "PO-Revision-Date: 2009-11-20 12:34+0100\n"
 "Last-Translator: 大宝 <michaelbond01@163.com>\n"
 "Language-Team:  <>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -140,7 +141,7 @@ msgstr "无文件名"
 msgid "Can't save the file."
 msgstr "未能保存文件。"
 
-#: ../devede_main.py:400
+#: ../devede_main.py:402
 msgid ""
 "Too many videos for this disc size.\n"
 "Please, select a bigger disc type or remove some videos."
@@ -148,7 +149,7 @@ msgstr ""
 "影片太多超出光盘大小限制。\n"
 "请换更大的光盘类型或删减一些影片。"
 
-#: ../devede_main.py:460
+#: ../devede_main.py:462
 msgid ""
 "Some files weren't video files.\n"
 "None added."
@@ -156,7 +157,7 @@ msgstr ""
 "有些文件不是影像文件。\n"
 "未能加入。"
 
-#: ../devede_main.py:506
+#: ../devede_main.py:510
 #, python-format
 msgid ""
 "Your project contains %(X)d movie files, but the maximum is %(MAX)d. Please, "
@@ -165,15 +166,15 @@ msgstr ""
 "你的项目含有 %(X)d 个影片文件，但最大限制为 %(MAX)d 个影片文件。请删除一些影"
 "片后再试一次。"
 
-#: ../devede_main.py:946
+#: ../devede_main.py:952
 msgid "no chapters"
 msgstr "无章节"
 
-#: ../devede_main.py:1006
+#: ../devede_main.py:1012
 msgid "Unsaved disc structure"
 msgstr "未保存的光盘文件"
 
-#: ../devede_main.py:1074
+#: ../devede_main.py:1080
 #, python-format
 msgid "Title %(X)d"
 msgstr "标题 %(X)d"
@@ -431,6 +432,10 @@ msgstr ""
 "真的要继续吗？"
 
 #: ../interface/wend_dialog.ui.h:1
+msgid "Burn"
+msgstr ""
+
+#: ../interface/wend_dialog.ui.h:2
 msgid "Job done!"
 msgstr "完成啦！"
 

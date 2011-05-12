@@ -8,10 +8,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pt_PT\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2010-07-03 00:22+0200\n"
+"POT-Creation-Date: 2011-05-12 13:59-0300\n"
 "PO-Revision-Date: 2008-08-24 01:52+0200\n"
 "Last-Translator: Joel Calado <joelcalado@gmail.com>\n"
 "Language-Team: Portuguese (Portugal) <pt@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -147,7 +148,7 @@ msgstr "Sem nome de ficheiro"
 msgid "Can't save the file."
 msgstr "Não foi possível guardar o ficheiro."
 
-#: ../devede_main.py:400
+#: ../devede_main.py:402
 msgid ""
 "Too many videos for this disc size.\n"
 "Please, select a bigger disc type or remove some videos."
@@ -155,7 +156,7 @@ msgstr ""
 "Demasiados vídeos para o tamanho do disco.\n"
 "Por favor, seleccione um tipo de disco maior ou remova alguns vídeos."
 
-#: ../devede_main.py:460
+#: ../devede_main.py:462
 msgid ""
 "Some files weren't video files.\n"
 "None added."
@@ -163,24 +164,24 @@ msgstr ""
 "Alguns ficheiros não são vídeos.\n"
 "Nenhum adicionado."
 
-#: ../devede_main.py:506
+#: ../devede_main.py:510
 #, python-format
 msgid ""
 "Your project contains %(X)d movie files, but the maximum is %(MAX)d. Please, "
 "remove some files and try again."
 msgstr ""
-"O seu projecto contém  %(X)d ficheiros de filme, mas o máximo é de is %(MAX)"
-"d. Por favor, remova alguns e tente de novo."
+"O seu projecto contém  %(X)d ficheiros de filme, mas o máximo é de is "
+"%(MAX)d. Por favor, remova alguns e tente de novo."
 
-#: ../devede_main.py:946
+#: ../devede_main.py:952
 msgid "no chapters"
 msgstr "sem capítulos"
 
-#: ../devede_main.py:1006
+#: ../devede_main.py:1012
 msgid "Unsaved disc structure"
 msgstr "Estrutura de disco não guardada"
 
-#: ../devede_main.py:1074
+#: ../devede_main.py:1080
 #, python-format
 msgid "Title %(X)d"
 msgstr "Título %(X)d"
@@ -432,6 +433,10 @@ msgstr ""
 "Continuar mesmo assim?"
 
 #: ../interface/wend_dialog.ui.h:1
+msgid "Burn"
+msgstr ""
+
+#: ../interface/wend_dialog.ui.h:2
 msgid "Job done!"
 msgstr "Trabalho terminado!"
 
